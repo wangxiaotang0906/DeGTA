@@ -4,7 +4,7 @@
 
 ## Fast overview
 
-<img src="DeGTA/gta_framework.pdf">
+<img src="DeGTA/framework.jpg">
 
 Framework of DeGTA. The framework comprises four main components: Decoupled Multi-View Encoder, Local Channel, Global Channel, and Local-Global Integration. The strategies of encoders for multi-view and attention mechanism for local and global are all optional.
 
