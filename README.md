@@ -1,6 +1,6 @@
 # Graph Triple Attention Networks: A Decoupled Perspective
 
-> This repository is still on progress.
+> News: This work has been accepted by KDD2025.
 
 ## Fast overview
 
